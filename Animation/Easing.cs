@@ -4,7 +4,7 @@
 using Windows.Foundation;
 using Windows.UI.Xaml.Media.Animation;
 
-namespace Jaycorp.Animation
+namespace Jaybionic.Animation
 {
     public class Easing
     {        

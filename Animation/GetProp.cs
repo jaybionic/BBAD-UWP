@@ -2,7 +2,7 @@
     Written by Jason Kisch [jckisch@gmail.com]
 */
 
-namespace Jaycorp.Animation
+namespace Jaybionic.Animation
 {
     public class GetProp
     {

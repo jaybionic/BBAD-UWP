@@ -12,7 +12,7 @@ using Windows.UI.Xaml.Controls;
 using Windows.UI.Xaml.Media;
 using Windows.UI.Xaml.Media.Animation;
 
-namespace Jaycorp.Animation
+namespace Jaybionic.Animation
 {
     //Brutal Beast Animation Destroyer
     public class BBAD
