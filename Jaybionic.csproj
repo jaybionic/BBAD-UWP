@@ -112,7 +112,7 @@
     <Compile Include="Animation\Easing.cs" />
     <Compile Include="Animation\GetProp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Properties\Jaycorp.rd.xml" />
+    <EmbeddedResource Include="Properties\Jaybionic.rd.xml" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
